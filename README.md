@@ -1,4 +1,3 @@
-# rockpaperscisso
 # Rock Paper Scissors Game
 
 Welcome to the Rock Paper Scissors game! This simple Python program allows you to play the classic game against the computer.
